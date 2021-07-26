@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DependencyProperty.md",
+            "file": "WPF/AttachedProperty.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DependencyProperty.md",
+                "file": "WPF/AttachedProperty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
+    "WPF/AttachedProperty.md",
+    "WPF/DependencyProperty.md",
+    "WPF/Без названия.md",
+    "DependencyProperty.md",
     "Без названия.md"
   ]
 }
