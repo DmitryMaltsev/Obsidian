@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Файловая система.md",
+            "file": "ООП/Файловая система.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Файловая система.md",
+                "file": "ООП/Файловая система.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
