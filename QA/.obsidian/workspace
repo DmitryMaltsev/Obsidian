@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ООП/Файловая система.md",
+            "file": "С#/WPF/Стили/Стили.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Файловая система.md",
+                "file": "С#/WPF/Стили/Стили.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,15 @@
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
+    "С#/WPF/Стили/Стили.md",
+    "С#/WPF/Стили/Темы.md",
+    "С#/WPF/Стили/Триггеры.md",
+    "asdasda.md",
+    "С#/WPF/DependencyProperty.md",
+    "С#/WPF/AttachedProperty.md",
+    "С#/ООП/Файловая система.md",
     "Без названия.md",
-    "WPF/AttachedProperty.md",
-    "WPF/DependencyProperty.md",
-    "WPF/Без названия.md",
-    "DependencyProperty.md"
+    "С#/WPF/Без названия.md",
+    "С#/ООП/пока это ссылки нет.md"
   ]
 }
