@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349
   },
   "right": {
     "id": "aeae727c1d9b4449",
@@ -89,14 +89,14 @@
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
     "С#/WPF/Стили/Темы.md",
-    "Без названия.md",
     "С#/WPF/Стили/Стили.md",
-    "С#/WPF/Стили/Триггеры.md",
-    "С#/WPF/DependencyProperty.md",
+    "С#/WPF/Ресурсы/Словари ресурсов.md",
+    "С#/WPF/Ресурсы/Концепция ресурсов.md",
+    "С#/WPF/Ресурсы/Статические и динамические ресурсы.md",
+    "Без названия.md",
+    "Static resources.md",
     "С#/WPF/AttachedProperty.md",
-    "asdasda.md",
-    "С#/ООП/Файловая система.md",
-    "С#/WPF/Без названия.md",
-    "С#/ООП/пока это ссылки нет.md"
+    "С#/WPF/DependencyProperty.md",
+    "С#/WPF/Стили/Триггеры.md"
   ]
 }
