@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Добавление параметров.md",
+            "file": "С#/WPF/DependencyProperty.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добавление параметров.md",
+                "file": "С#/WPF/DependencyProperty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
-    "Без названия.md",
-    "С#/WPF/Ресурсы/Словари ресурсов.md",
-    "С#/WPF/Ресурсы/Концепция ресурсов.md",
-    "С#/WPF/Ресурсы/Статические и динамические ресурсы.md",
-    "С#/WPF/Стили/Стили.md",
-    "С#/WPF/Стили/Темы.md",
     "С#/WPF/DependencyProperty.md",
-    "С#/WPF/AttachedProperty.md",
+    "С#/WPF/BindingCodeBehind.md",
+    "Без названия.md",
+    "Добавление параметров.md",
+    "С#/WPF/Ресурсы/Словари ресурсов.md",
+    "С#/WPF/Ресурсы/Статические и динамические ресурсы.md",
+    "С#/WPF/Ресурсы/Концепция ресурсов.md",
     "С#/WPF/Стили/Триггеры.md",
-    "Static resources.md"
+    "С#/WPF/Стили/Темы.md",
+    "С#/WPF/Стили/Стили.md"
   ]
 }
