@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/WPF/Стили/Темы.md",
+            "file": "С#/WPF/AttachedProperty.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/WPF/Стили/Темы.md",
+                "file": "С#/WPF/AttachedProperty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 247
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
-    "С#/WPF/Стили/Темы.md",
-    "С#/WPF/Стили/Стили.md",
-    "С#/WPF/Ресурсы/Словари ресурсов.md",
-    "С#/WPF/Ресурсы/Концепция ресурсов.md",
-    "С#/WPF/Ресурсы/Статические и динамические ресурсы.md",
-    "С#/Prism/CompositeCommand.md",
-    "С#/Prism/Работа с  DelegateCommand.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md",
     "С#/WPF/AttachedProperty.md",
-    "С#/WPF/BindingCodeBehind.md"
+    "С#/WPF/BindingCodeBehind.md",
+    "С#/WPF/DependencyProperty.md",
+    "С#/WPF/Стили/Стили.md",
+    "С#/WPF/Стили/Темы.md",
+    "С#/WPF/Стили/Триггеры.md",
+    "С#/WPF/Ресурсы/Словари ресурсов.md",
+    "С#/WPF/Ресурсы/Статические и динамические ресурсы.md",
+    "С.md",
+    "Если не в текущем приложении.md"
   ]
 }
