@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/WPF/Визульные элементы/TabControl.md",
+            "file": "Паттерны/Абстрактная фабрика.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/WPF/Визульные элементы/TabControl.md",
+                "file": "Паттерны/Абстрактная фабрика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
-    "Без названия.md",
+    "Паттерны/Абстрактная фабрика.md",
+    "Паттерны/Фабрика.md",
+    "Untitled.md",
+    "С#/WPF/Визульные элементы/TabControl.md",
+    "С#/WPF/AttachedProperty.md",
+    "С#/WPF/BindingCodeBehind.md",
+    "С#/WPF/DependencyProperty.md",
     "Если не в текущем приложении.md",
     "Git/Команды.md",
-    "С#/WPF/DependencyProperty.md",
-    "С#/WPF/BindingCodeBehind.md",
-    "С#/WPF/AttachedProperty.md",
-    "С#/WPF/Стили/Стили.md",
-    "С#/WPF/Стили/Темы.md",
-    "С#/WPF/Стили/Триггеры.md",
-    "С#/WPF/Ресурсы/Словари ресурсов.md"
+    "С#/Prism/Добавление ВьюМодели в Регион.md"
   ]
 }
