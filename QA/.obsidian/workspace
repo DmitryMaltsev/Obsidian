@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Паттерны/Абстрактная фабрика.md",
+            "file": "Паттерны/Структурные/Декоратор(Decorator).md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/Абстрактная фабрика.md",
+                "file": "Паттерны/Структурные/Декоратор(Decorator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
+    "Паттерны/Структурные/Декоратор(Decorator).md",
+    "Паттерны/Структурные/Компоновщик.md",
+    "Без названия.md",
+    "Паттерны/Порождающие/Фабрика.md",
+    "Паттерны/Порождающие/Абстрактная фабрика.md",
     "Паттерны/Абстрактная фабрика.md",
     "Паттерны/Фабрика.md",
-    "Untitled.md",
-    "С#/WPF/Визульные элементы/TabControl.md",
-    "С#/WPF/AttachedProperty.md",
-    "С#/WPF/BindingCodeBehind.md",
-    "С#/WPF/DependencyProperty.md",
     "Если не в текущем приложении.md",
-    "Git/Команды.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md"
+    "Untitled.md",
+    "С#/WPF/Визульные элементы/TabControl.md"
   ]
 }
