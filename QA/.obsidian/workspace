@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Паттерны/Абстрактная фабрика.md",
+            "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/Абстрактная фабрика.md",
+                "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
+    "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
+    "Untitled.md",
+    "С#/ООП/Рефлексия и аттрибуты/Рефлексия.md",
+    "С#/ООП/Рефлексия и аттрибцты/Рефлексия.md",
+    "С#/WPF/Визульные элементы/TabControl.md",
     "Паттерны/Абстрактная фабрика.md",
     "Паттерны/Фабрика.md",
-    "Untitled.md",
-    "С#/WPF/Визульные элементы/TabControl.md",
     "С#/WPF/AttachedProperty.md",
     "С#/WPF/BindingCodeBehind.md",
-    "С#/WPF/DependencyProperty.md",
-    "Если не в текущем приложении.md",
-    "Git/Команды.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md"
+    "С#/WPF/DependencyProperty.md"
   ]
 }
