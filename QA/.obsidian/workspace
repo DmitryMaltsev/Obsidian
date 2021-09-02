@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
+=======
+            "file": "Паттерны/Структурные/Декоратор(Decorator).md",
+>>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
             "mode": "source"
           }
         }
@@ -68,14 +72,18 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
+=======
+                "file": "Паттерны/Структурные/Декоратор(Decorator).md",
+>>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,10 +91,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 247,
+    "collapsed": true
   },
   "active": "87508b7c67faf9fb",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
     "Untitled.md",
     "С#/ООП/Рефлексия и аттрибуты/Рефлексия.md",
@@ -97,5 +107,17 @@
     "С#/WPF/AttachedProperty.md",
     "С#/WPF/BindingCodeBehind.md",
     "С#/WPF/DependencyProperty.md"
+=======
+    "Паттерны/Структурные/Декоратор(Decorator).md",
+    "Паттерны/Структурные/Компоновщик.md",
+    "Без названия.md",
+    "Паттерны/Порождающие/Фабрика.md",
+    "Паттерны/Порождающие/Абстрактная фабрика.md",
+    "Паттерны/Абстрактная фабрика.md",
+    "Паттерны/Фабрика.md",
+    "Если не в текущем приложении.md",
+    "Untitled.md",
+    "С#/WPF/Визульные элементы/TabControl.md"
+>>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
   ]
 }
