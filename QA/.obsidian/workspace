@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "ad34c44b85853580",
+    "id": "9d5e7a1af676cc9f",
     "type": "split",
     "children": [
       {
-        "id": "87508b7c67faf9fb",
+        "id": "5066e0c942f3b4ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
-=======
-            "file": "Паттерны/Структурные/Декоратор(Decorator).md",
->>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
+            "file": "С#/ООП/Анонимные методы и делегаты.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9caf1f63c7724cab",
+    "id": "e5330c7431ba062f",
     "type": "split",
     "children": [
       {
-        "id": "5d92d1808fb366d2",
+        "id": "496481572cd4c0bc",
         "type": "tabs",
         "children": [
           {
-            "id": "a5ef2a4a50c5f294",
+            "id": "89c99fa66e372e5b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +34,7 @@
             }
           },
           {
-            "id": "8990ada0998eaf35",
+            "id": "3c4321cdd39a00a6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,34 +52,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 300
   },
   "right": {
-    "id": "aeae727c1d9b4449",
+    "id": "72eb8def0c33d156",
     "type": "split",
     "children": [
       {
-        "id": "1b5ee7c3cc41ef46",
+        "id": "605d77dda74882fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4317f920a428c5e6",
+            "id": "8124822bdf45de96",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
-=======
-                "file": "Паттерны/Структурные/Декоратор(Decorator).md",
->>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
+                "file": "С#/ООП/Анонимные методы и делегаты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -91,33 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
+    "width": 300,
     "collapsed": true
   },
-  "active": "87508b7c67faf9fb",
+  "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "С#/ООП/Рефлексия и аттрибуты/Позднее связывание.md",
-    "Untitled.md",
-    "С#/ООП/Рефлексия и аттрибуты/Рефлексия.md",
-    "С#/ООП/Рефлексия и аттрибцты/Рефлексия.md",
-    "С#/WPF/Визульные элементы/TabControl.md",
-    "Паттерны/Абстрактная фабрика.md",
-    "Паттерны/Фабрика.md",
-    "С#/WPF/AttachedProperty.md",
-    "С#/WPF/BindingCodeBehind.md",
-    "С#/WPF/DependencyProperty.md"
-=======
-    "Паттерны/Структурные/Декоратор(Decorator).md",
-    "Паттерны/Структурные/Компоновщик.md",
-    "Без названия.md",
-    "Паттерны/Порождающие/Фабрика.md",
-    "Паттерны/Порождающие/Абстрактная фабрика.md",
-    "Паттерны/Абстрактная фабрика.md",
-    "Паттерны/Фабрика.md",
-    "Если не в текущем приложении.md",
-    "Untitled.md",
-    "С#/WPF/Визульные элементы/TabControl.md"
->>>>>>> 91176c197ea185adf701c0dcc43c335c14f28c51
+    "С#/ООП/Анонимные методы и делегаты.md",
+    "С#/Prism/CompositeCommand.md",
+    "С#/Prism/Создание новго региона.md",
+    "С#/Prism/Работа с  DelegateCommand.md",
+    "С#/Prism/Добавление ВьюМодели в Регион.md",
+    "По Пиру/CompositeCommand/Init.md",
+    "По Пиру/CompositeCommand/SetSensorMode.md",
+    "Паттерны/Структурные/Фасад(facade).md",
+    "Паттерны/Структурные/Компоновщик.md"
   ]
 }
