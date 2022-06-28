@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Команды.md",
+            "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
+    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
     "Git/Команды.md",
+    "Force и вытекающие.md",
     "Паттерны/Дополнительно/Dependency injection.md",
     "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
     "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
     "Concurrency/Основы Async await/ValueTask.md",
     "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
     "Proxi(Заместитель).md",
-    "С#/ООП/Анонимные методы и делегаты.md",
-    "С#/ООП/Файловая система.md",
-    "С#/ООП/Рефлексия и аттрибуты/Аттрибуты.md"
+    "С#/ООП/Анонимные методы и делегаты.md"
   ]
 }
