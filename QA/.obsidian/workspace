@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/ООП/Анонимные методы и делегаты.md",
+            "file": "Just Check.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/ООП/Анонимные методы и делегаты.md",
+                "file": "Just Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
+    "Just Check.md",
+    "Concurrency/Основы Async await/ValueTask.md",
+    "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
+    "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
+    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
     "С#/ООП/Анонимные методы и делегаты.md",
     "С#/Prism/CompositeCommand.md",
     "С#/Prism/Создание новго региона.md",
     "С#/Prism/Работа с  DelegateCommand.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md",
-    "По Пиру/CompositeCommand/Init.md",
-    "По Пиру/CompositeCommand/SetSensorMode.md",
-    "Паттерны/Структурные/Фасад(facade).md",
-    "Паттерны/Структурные/Компоновщик.md"
+    "С#/Prism/Добавление ВьюМодели в Регион.md"
   ]
 }
