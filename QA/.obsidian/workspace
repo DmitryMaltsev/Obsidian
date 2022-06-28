@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Just Check.md",
+            "file": "Concurrency/Основы Async await/CancelationToken.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Just Check.md",
+                "file": "Concurrency/Основы Async await/CancelationToken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
+    "Concurrency/Основы Async await/CancelationToken.md",
+    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
     "Just Check.md",
+    "Proxi(Заместитель).md",
     "Concurrency/Основы Async await/ValueTask.md",
     "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
     "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
     "С#/ООП/Анонимные методы и делегаты.md",
     "С#/Prism/CompositeCommand.md",
-    "С#/Prism/Создание новго региона.md",
-    "С#/Prism/Работа с  DelegateCommand.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md"
+    "С#/Prism/Создание новго региона.md"
   ]
 }
