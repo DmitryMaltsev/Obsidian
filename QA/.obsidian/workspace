@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/ООП/Анонимные методы и делегаты.md",
+            "file": "Git/Команды.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/ООП/Анонимные методы и делегаты.md",
+                "file": "Git/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
+    "Git/Команды.md",
+    "Паттерны/Дополнительно/Dependency injection.md",
+    "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
+    "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
+    "Concurrency/Основы Async await/ValueTask.md",
+    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
+    "Proxi(Заместитель).md",
     "С#/ООП/Анонимные методы и делегаты.md",
-    "С#/Prism/CompositeCommand.md",
-    "С#/Prism/Создание новго региона.md",
-    "С#/Prism/Работа с  DelegateCommand.md",
-    "С#/Prism/Добавление ВьюМодели в Регион.md",
-    "По Пиру/CompositeCommand/Init.md",
-    "По Пиру/CompositeCommand/SetSensorMode.md",
-    "Паттерны/Структурные/Фасад(facade).md",
-    "Паттерны/Структурные/Компоновщик.md"
+    "С#/ООП/Файловая система.md",
+    "С#/ООП/Рефлексия и аттрибуты/Аттрибуты.md"
   ]
 }
