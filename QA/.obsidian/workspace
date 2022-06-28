@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency/Основы Async await/CancelationToken.md",
+            "file": "Force и вытекающие.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency/Основы Async await/CancelationToken.md",
+                "file": "Force и вытекающие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5066e0c942f3b4ae",
   "lastOpenFiles": [
-    "Concurrency/Основы Async await/CancelationToken.md",
-    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
-    "Just Check.md",
+    "Force и вытекающие.md",
+    "Git/Команды.md",
     "Proxi(Заместитель).md",
-    "Concurrency/Основы Async await/ValueTask.md",
-    "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
-    "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "С#/ООП/Анонимные методы и делегаты.md",
-    "С#/Prism/CompositeCommand.md",
-    "С#/Prism/Создание новго региона.md"
+    "Если не в текущем приложении.md",
+    "Аттрибуты.md",
+    "Паттерны/Состояние.md",
+    "С#/Concurrency/Основы Async await/CancelationToken.md",
+    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
+    "Just Check.md",
+    "С#/Concurrency/Основы Async await/ValueTask.md"
   ]
 }
