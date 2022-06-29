@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5066e0c942f3b4ae",
+        "id": "913f1963329b74cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+            "file": "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+                "file": "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5066e0c942f3b4ae",
+  "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
-    "Git/Команды.md",
-    "Force и вытекающие.md",
-    "Паттерны/Дополнительно/Dependency injection.md",
-    "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
-    "Concurrency/Основы Async await/ValueTask.md",
-    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
+    "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
+    "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
+    "С.md",
+    "С#/Concurrency/Основы Async await/CancelationToken.md",
     "Proxi(Заместитель).md",
-    "С#/ООП/Анонимные методы и делегаты.md"
+    "С#/Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
+    "С#/Concurrency/Основы Async await/ValueTask.md",
+    "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
+    "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
+    "Unity/Force и вытекающие.md"
   ]
 }
