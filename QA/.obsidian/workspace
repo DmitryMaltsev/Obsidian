@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/WPF/Ресурсы/Концепция ресурсов.md",
+            "file": "Пример таймера.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/WPF/Ресурсы/Концепция ресурсов.md",
+                "file": "Пример таймера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+    "Пример таймера.md",
+    "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
+    "С#/Concurrency/Основы Async await/CancelationToken.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
     "С#/WPF/Ресурсы/Концепция ресурсов.md",
     "С#/WPF/Визульные элементы/TabControl.md",
     "Git/Команды.md",
     "Unity/CardGamePlan.png",
-    "Unity/Force и вытекающие.md",
-    "Proxi(Заместитель).md",
-    "С.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
-    "С#/Concurrency/Основы Async await/CancelationToken.md"
+    "Unity/Force и вытекающие.md"
   ]
 }
