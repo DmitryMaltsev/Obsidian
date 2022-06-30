@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
+            "file": "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
+                "file": "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
     "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
+    "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
     "С.md",
     "С#/Concurrency/Основы Async await/CancelationToken.md",
     "Proxi(Заместитель).md",
