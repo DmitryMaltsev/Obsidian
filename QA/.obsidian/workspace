@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
+            "file": "С#/WPF/Ресурсы/Концепция ресурсов.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
+                "file": "С#/WPF/Ресурсы/Концепция ресурсов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "С#/Concurrency/Параллельное программирование/Параллельная обработка данных.md",
-    "С#/Concurrency/Параллельное программирование/Параллельный выхзов.md",
-    "С.md",
-    "С#/Concurrency/Основы Async await/CancelationToken.md",
+    "С#/WPF/Ресурсы/Концепция ресурсов.md",
+    "С#/WPF/Визульные элементы/TabControl.md",
+    "Git/Команды.md",
+    "Unity/CardGamePlan.png",
+    "Unity/Force и вытекающие.md",
     "Proxi(Заместитель).md",
-    "С#/Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
-    "С#/Concurrency/Основы Async await/ValueTask.md",
-    "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
-    "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "Unity/Force и вытекающие.md"
+    "С.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
+    "С#/Concurrency/Основы Async await/CancelationToken.md"
   ]
 }
