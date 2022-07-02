@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5066e0c942f3b4ae",
+        "id": "913f1963329b74cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+            "file": "Пример таймера.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+                "file": "Пример таймера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5066e0c942f3b4ae",
+  "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+    "Пример таймера.md",
+    "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
+    "С#/Concurrency/Основы Async await/CancelationToken.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
+    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
+    "С#/WPF/Ресурсы/Концепция ресурсов.md",
+    "С#/WPF/Визульные элементы/TabControl.md",
     "Git/Команды.md",
-    "Force и вытекающие.md",
-    "Паттерны/Дополнительно/Dependency injection.md",
-    "Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "Concurrency/Основы Async await/Приостановка задач на период времени с cts.md",
-    "Concurrency/Основы Async await/ValueTask.md",
-    "Concurrency/Асинхронные потоки/Cоздание асинхронных потоков.md",
-    "Proxi(Заместитель).md",
-    "С#/ООП/Анонимные методы и делегаты.md"
+    "Unity/CardGamePlan.png",
+    "Unity/Force и вытекающие.md"
   ]
 }

@@ -1,1 +1,0 @@
-https://docs.unity3d.com/ScriptReference/ForceMode.Impulse.html
