@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Concurent collections/Untitled.md",
+            "file": "С#/Примеры для применения/BitmapToImageSource.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Concurent collections/Untitled.md",
+                "file": "С#/Примеры для применения/BitmapToImageSource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "С#/Concurrency/Concurent collections/Untitled.md",
+    "С#/Примеры для применения/BitmapToImageSource.md",
+    "С#/Concurrency/Concurent collections/Общие сведения BlockingCollection.md",
+    "С#/Concurrency/Concurent collections/Практическое руководство. Добавление и удаление отдельных элементов коллекции BlockingCollection.md",
+    "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
+    "С#/Concurrency/Concurent collections/Использование массивов коллекций с функцией блокировки в конвейере.md",
     "Proxi(Заместитель).md",
     "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
     "С#/Примеры для применения/Пример таймера.md",
     "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "С#/Concurrency/Основы Async await/CancelationToken.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
-    "С#/WPF/Ресурсы/Концепция ресурсов.md",
-    "С#/WPF/Визульные элементы/TabControl.md",
-    "Git/Команды.md"
+    "С#/Concurrency/Основы Async await/CancelationToken.md"
   ]
 }

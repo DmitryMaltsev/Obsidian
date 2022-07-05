@@ -1,1 +1,0 @@
-https://docs.microsoft.com/ru-ru/dotnet/api/system.collections.concurrent?view=net-6.0
