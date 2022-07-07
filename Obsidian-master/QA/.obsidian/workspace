@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Примеры для применения/Пример таймера.md",
+            "file": "Потокобезопасные коллекции.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Примеры для применения/Пример таймера.md",
+                "file": "Потокобезопасные коллекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+    "Потокобезопасные коллекции.md",
+    "Proxi(Заместитель).md",
+    "Пример таймера.md",
     "С#/Примеры для применения/Пример таймера.md",
     "С#/Примеры для применения/BitmapToImageSource.md",
-    "С#/Concurrency/Concurent collections/Общие сведения BlockingCollection.md",
-    "С#/Concurrency/Concurent collections/Практическое руководство. Добавление и удаление отдельных элементов коллекции BlockingCollection.md",
-    "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
-    "С#/Concurrency/Concurent collections/Использование массивов коллекций с функцией блокировки в конвейере.md",
-    "Proxi(Заместитель).md",
     "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
-    "С#/Concurrency/Основы Async await/Ожидания завершения группы задач Taks.WhenAll.md",
-    "С#/Concurrency/Основы Async await/CancelationToken.md"
+    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
+    "Unity/Force и вытекающие.md",
+    "Unity/CardGamePlan.png",
+    "С#/Concurrency/Concurent collections/Общие сведения BlockingCollection.md"
   ]
 }
