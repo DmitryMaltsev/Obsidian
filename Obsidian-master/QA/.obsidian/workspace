@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потокобезопасные коллекции.md",
+            "file": "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потокобезопасные коллекции.md",
+                "file": "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+    "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
+    "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
+    "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
+    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
     "Потокобезопасные коллекции.md",
     "Proxi(Заместитель).md",
     "Пример таймера.md",
     "С#/Примеры для применения/Пример таймера.md",
     "С#/Примеры для применения/BitmapToImageSource.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельная обработка данных.md",
-    "Unity/Force и вытекающие.md",
-    "Unity/CardGamePlan.png",
-    "С#/Concurrency/Concurent collections/Общие сведения BlockingCollection.md"
+    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md"
   ]
 }
