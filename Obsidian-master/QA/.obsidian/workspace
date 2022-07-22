@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
+            "file": "С#/WPF/Визульные элементы/TreeNode.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
+                "file": "С#/WPF/Визульные элементы/TreeNode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+    "С#/WPF/Визульные элементы/TreeNode.md",
     "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
     "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
     "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
@@ -96,7 +97,6 @@
     "Proxi(Заместитель).md",
     "Пример таймера.md",
     "С#/Примеры для применения/Пример таймера.md",
-    "С#/Примеры для применения/BitmapToImageSource.md",
-    "С#/Concurrency/Основы параллельного программирования/Параллельный выхзов.md"
+    "С#/Примеры для применения/BitmapToImageSource.md"
   ]
 }
