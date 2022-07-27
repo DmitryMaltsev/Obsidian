@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Unity/Zenject DI Container.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -89,15 +88,15 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
-    "Unity/CardGamePlan.png",
+    "Unity/Zenject DI Container.md",
     "Unity/Force и вытекающие.md",
-    "С#/WPF/Визульные элементы/TreeNode.md",
-    "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
-    "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
-    "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
-    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
+    "Unity/CardGamePlan.png",
+    "Git/Команды.md",
     "Потокобезопасные коллекции.md",
     "Proxi(Заместитель).md",
+    "Screenshot_2.png",
+    "Screenshot_2 2.png",
+    "Screenshot_2 1.png",
     "Пример таймера.md"
   ]
 }

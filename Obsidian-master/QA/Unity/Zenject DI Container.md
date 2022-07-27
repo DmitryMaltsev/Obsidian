@@ -42,3 +42,4 @@
 14. Использовать зарегистрированные объекты: 
 [Inject] private PlayerUnit playerUnit;
 
+15. Для того чтобы объекты существовали на протяжении всей игры нужно использовать ProjectContext(аналогично Scene context добавляем Installer).
