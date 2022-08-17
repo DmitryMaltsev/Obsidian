@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "С#/ООП/Замена switchCase.md",
+            "file": "С#/Примеры для применения/Пример SpliteByCount(IEnumerable(List(T))).md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "С#/ООП/Замена switchCase.md",
+                "file": "С#/Примеры для применения/Пример SpliteByCount(IEnumerable(List(T))).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+    "С#/ООП/Замена switchCase.md",
     "С#/ООП/Анонимные методы и делегаты.md",
     "Unity/Zenject DI Container.md",
     "Unity/CardGamePlan.png",
@@ -97,7 +98,6 @@
     "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
     "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md",
     "С#/Concurrency/Асинхронные потоки/Асинхронные потоки(async await).md",
-    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md",
-    "Потокобезопасные коллекции.md"
+    "С#/Concurrency/Асинхронные потоки/Cоздание асинхронных потоков2.md"
   ]
 }
