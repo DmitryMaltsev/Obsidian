@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "9d5e7a1af676cc9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26ac94985c57201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc41a996132b58e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Материалы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74619cee5d349f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Материалы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5330c7431ba062f",
+    "type": "split",
+    "children": [
+      {
+        "id": "496481572cd4c0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c99fa66e372e5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c4321cdd39a00a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72eb8def0c33d156",
+    "type": "split",
+    "children": [
+      {
+        "id": "605d77dda74882fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8124822bdf45de96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Материалы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74619cee5d349f84",
+  "lastOpenFiles": [
+    "Unity/Свет.md",
+    "Unity/Материалы.md",
+    "Unity/Pro builder.md",
+    "Unity/Zenject DI Container.md",
+    "Unity/Гравитация.md",
+    "Unity/Force и вытекающие.md",
+    "Unity/CardGamePlan.png",
+    "С#/WPF/Визульные элементы/TreeNode.md",
+    "С#/Примеры для применения/Пример SpliteByCount(IEnumerable(List(T))).md",
+    "С#/ООП/Замена switchCase.md"
+  ]
+}

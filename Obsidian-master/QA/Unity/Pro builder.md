@@ -1,4 +1,4 @@
-Pakage manager Registry ProBuilder
+Window/Pakage manager/Registry/ProBuilder
 
 Появится раздел Tools/Probuilder
 
