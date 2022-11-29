@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Unity/Pro builder.md",
+=======
+            "file": "Git/Команды.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unity/Pro builder.md",
+=======
+                "file": "Git/Команды.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +97,7 @@
   },
   "active": "913f1963329b74cb",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Unity/Гравитация.md",
     "Unity/Zenject DI Container.md",
     "Unity/Force и вытекающие.md",
@@ -99,5 +108,17 @@
     "С#/ООП/Анонимные методы и делегаты.md",
     "С#/Concurrency/Concurent collections/Concurrent Dictionary.md",
     "С#/Concurrency/Concurent collections/Создание пула объектов с помощью класса ConcurrentBag.md"
+=======
+    "Git/Команды.md",
+    "Unity/Zenject DI Container.md",
+    "Unity/Force и вытекающие.md",
+    "Unity/CardGamePlan.png",
+    "Потокобезопасные коллекции.md",
+    "Proxi(Заместитель).md",
+    "Screenshot_2.png",
+    "Screenshot_2 2.png",
+    "Screenshot_2 1.png",
+    "Пример таймера.md"
+>>>>>>> Stashed changes
   ]
 }

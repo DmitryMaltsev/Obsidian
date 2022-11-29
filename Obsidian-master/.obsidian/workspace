@@ -1,15 +1,27 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "bcf988bcbbb2e9d3",
     "type": "split",
     "children": [
       {
         "id": "d977e15ab1a16ac8",
+=======
+    "id": "7541ee74e8134868",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de07724f16f9c40",
+>>>>>>> Stashed changes
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "QA/Unity/Zenject DI Container.md",
+=======
+            "file": "QA/Git/Команды.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -19,6 +31,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "d0bd2861fe26ffcc",
     "type": "split",
     "children": [
@@ -28,6 +41,17 @@
         "children": [
           {
             "id": "a1fedc17d1853ba3",
+=======
+    "id": "8383a80dab229e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c70a6319b8e45e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5953e8160ef017b0",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +59,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "4d95c2e86a7d785d",
+=======
+            "id": "153c9046dc965aa1",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +78,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "8fb447a4098351c9",
+=======
+            "id": "3eb2906050701225",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,6 +96,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "cbc0814a1590c16a",
     "type": "split",
     "children": [
@@ -73,11 +106,26 @@
         "children": [
           {
             "id": "37021ac78c5c1c20",
+=======
+    "id": "772e06e8c782039d",
+    "type": "split",
+    "children": [
+      {
+        "id": "39e8772f64d4fa0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad1b5264b0ca8d3b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "QA/Unity/Zenject DI Container.md",
+=======
+                "file": "QA/Git/Команды.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +137,31 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "4a27cb611669810b",
+=======
+            "id": "d9e544498576db35",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "QA/Unity/Zenject DI Container.md",
+=======
+                "file": "QA/Git/Команды.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "3123dc5219d4ebee",
+=======
+            "id": "767915b3a65bf0b8",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +172,20 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "d020f5b007f3cb7c",
+=======
+            "id": "a8c2fc1890349036",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "QA/Unity/Zenject DI Container.md"
+=======
+                "file": "QA/Git/Команды.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -128,6 +196,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "d977e15ab1a16ac8",
   "lastOpenFiles": [
     "QA/Потокобезопасные коллекции.md",
@@ -140,4 +209,8 @@
     "QA/Unity/Материалы.md",
     "QA/Unity/Гравитация.md"
   ]
+=======
+  "active": "2de07724f16f9c40",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
