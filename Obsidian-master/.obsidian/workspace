@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QA/Unity/Движение объекта в разные стороны.md",
+            "file": "QA/Unity/Физика/Гравитация.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/Движение объекта в разные стороны.md",
+                "file": "QA/Unity/Физика/Гравитация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/Движение объекта в разные стороны.md",
+                "file": "QA/Unity/Физика/Гравитация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/Движение объекта в разные стороны.md"
+                "file": "QA/Unity/Физика/Гравитация.md"
               }
             }
           }
@@ -130,14 +130,15 @@
   },
   "active": "d977e15ab1a16ac8",
   "lastOpenFiles": [
-    "QA/Unity/Zenject DI Container.md",
+    "QA/Unity/Физика/Force и вытекающие.md",
+    "QA/Git/Команды.md",
+    "QA/Идеи для игр/Девушка с кошамарами.md",
     "QA/Потокобезопасные коллекции.md",
-    "QA/Proxi(Заместитель).md",
-    "QA/Unity/Pro builder.md",
-    "QA/Unity/Force и вытекающие.md",
-    "QA/Unity/CardGamePlan.png",
-    "QA/Unity/Свет.md",
+    "QA/Паттерны/Proxi(Заместитель).md",
+    "QA/Unity/Движение объекта в разные стороны.md",
     "QA/Unity/Материалы.md",
-    "QA/Unity/Гравитация.md"
+    "QA/Unity/Свет.md",
+    "QA/Unity/Pro builder.md",
+    "QA/Unity/Zenject DI Container.md"
   ]
 }
