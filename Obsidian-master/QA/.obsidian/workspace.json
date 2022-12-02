@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b73d358e94c041",
+        "id": "0e3d2e3a977ec494",
         "type": "tabs",
         "children": [
           {
-            "id": "c57249f911b6495d",
+            "id": "666df54525786189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/Zenject DI Container.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "72eb8def0c33d156",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Zenject DI Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89c99fa66e372e5b",
+  "active": "666df54525786189",
   "lastOpenFiles": [
-    "Unity/Pro builder.md",
-    "Unity/Свет.md",
-    "Unity/Материалы.md",
     "Unity/Движение объекта в разные стороны.md",
+    "Unity/Физика/Rigidbody/AddForce.md",
+    "Unity/Физика/Rigidbody/Velocity.md",
+    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
+    "Unity/Физика/OnCollision, OnTrigger.md",
+    "Unity/Физика/Physics.Raycast.md",
     "Unity/Физика/Гравитация.md",
-    "Unity/Физика/Force и вытекающие.md",
-    "Идеи для игр/Девушка с кошамарами.md",
-    "Unity/Zenject DI Container.md",
-    "Unity/Гравитация.md",
-    "Unity/Force и вытекающие.md"
+    "Unity/Физика/Rigidbody/AddTorque.md",
+    "С#/WPF/Перетаскивание элемента по полю.md",
+    "Unity/Zenject DI Container.md"
   ]
 }
