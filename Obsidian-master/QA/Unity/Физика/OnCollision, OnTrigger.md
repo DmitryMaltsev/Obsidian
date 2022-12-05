@@ -7,7 +7,9 @@ private void OnCollisionEnter(Collision collisioin)
 	 If(collision.GameObject.tag=="BulletMarkReciever")
 	 {
 		Vector3.position=collision.Contacts[o].Point;
-		Quaternion rotation=Quaternion.LookRotation(collision.contacts[0].normal);//TODO написать дома
+		Quaternion rotation=Quaternion.LookRotation(collision.contacts[0].normal);//TODO 
+		написать дома
+		Instantiate(MarkPrefab,position,rotation);
 	 }
 }
 Еще есть методы - OnTCollisionStay, OnCollisionExit;
