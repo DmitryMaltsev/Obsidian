@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b99cbc4b29f02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Unity/Физика/OnCollision, OnTrigger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25b99cbc4b29f02d",
+  "active": "7bb7494127350c3f",
   "lastOpenFiles": [
+    "Unity/Физика/Colliders, triggers.md",
+    "Unity/Физика/OnCollision, OnTrigger.md",
     "Unity/Физика/Rigidbody/Перемещение персонажа, проверки графиком.md",
     "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-    "Unity/Физика/Rigidbody/AddForce.md",
-    "Unity/Физика/Rigidbody/AddTorque.md",
     "Unity/Физика/Rigidbody/Velocity.md",
+    "Unity/Физика/Rigidbody/AddTorque.md",
+    "Unity/Физика/Rigidbody/AddForce.md",
     "Unity/Движение объекта в разные стороны.md",
-    "Unity/Физика/OnCollision, OnTrigger.md",
     "Unity/Физика/Physics.Raycast.md",
-    "Unity/Физика/Гравитация.md",
-    "С#/WPF/Перетаскивание элемента по полю.md"
+    "Unity/Физика/Гравитация.md"
   ]
 }
