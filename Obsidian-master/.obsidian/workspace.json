@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/MathF/Линейная интерполяция.md",
+                "file": "QA/Unity/Движение объекта в разные стороны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1eb470c3810aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Unity/Слежение за объектом(lookrotatiion).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/MathF/Линейная интерполяция.md",
+                "file": "QA/Unity/Слежение за объектом(lookrotatiion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/MathF/Линейная интерполяция.md",
+                "file": "QA/Unity/Слежение за объектом(lookrotatiion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/MathF/Линейная интерполяция.md"
+                "file": "QA/Unity/Слежение за объектом(lookrotatiion).md"
               }
             }
           }
@@ -161,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c74acda98c480065",
+  "active": "a1fedc17d1853ba3",
   "lastOpenFiles": [
     "QA/Unity/Движение объекта в разные стороны.md",
     "QA/Unity/MathF/Линейная интерполяция.md",
+    "QA/Unity/Материалы.md",
+    "QA/Unity/Свет.md",
+    "QA/Unity/Pro builder.md",
+    "QA/Unity/Zenject DI Container.md",
     "MathF.MoveTorwards.md",
     "QA/С#/Потокобезопасные коллекции.md",
-    "QA/Unity/Zenject DI Container.md",
-    "QA/Unity/Pro builder.md",
-    "QA/Unity/Свет.md",
     "QA/Unity/Физика/Physics.Raycast.md",
-    "QA/Unity/Физика/OnCollision, OnTrigger.md",
-    "QA/Unity/Физика/Гравитация.md"
+    "QA/Unity/Физика/OnCollision, OnTrigger.md"
   ]
 }
