@@ -1,9 +1,10 @@
 
 1. При столкновении RigidBody с объектом
-private void OnCollisionEnter(Collision collisioin)
+private void OnCollisionEnter(Collision collision)
 {
 	 if(collision.gameobject.GetComponent<Enemy>)
 	 collision.gameobject.GetComponent<Enemy>.OnHit()//Вызываем действие
+	 
 	 If(collision.GameObject.tag=="BulletMarkReciever")
 	 {
 		Vector3.position=collision.Contacts[o].Point;
