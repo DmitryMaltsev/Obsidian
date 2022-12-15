@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Поиск и слежение.md",
+                "file": "Unity/Физика/Rigidbody/Перемещение персонажа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19adb9d37efaae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Физика/Rigidbody/Перемещение персонажа.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Поиск и слежение.md",
+                "file": "Unity/Физика/Rigidbody/Перемещение персонажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37ce43a3fc14e006",
+  "active": "b19adb9d37efaae3",
   "lastOpenFiles": [
-    "Unity/Движение объекта в разные стороны.md",
-    "Unity/Линейная интерполяция.md",
-    "Unity/Материалы.md",
+    "Unity/Методы для отладки.md",
+    "Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "Unity/Поиск и слежение.md",
     "Unity/Свет.md",
-    "Unity/Physics.Raycast.md",
-    "Unity/Pro builder.md",
-    "Unity/Функции Mathf.md",
+    "Unity/Материалы.md",
+    "Unity/Линейная интерполяция.md",
+    "Unity/Движение объекта в разные стороны.md",
+    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "Unity/Физика/Rigidbody/AddTorque.md",
-    "Unity/Физика/OnCollision, OnTrigger.md"
+    "Unity/Физика/Rigidbody/Velocity.md"
   ]
 }
