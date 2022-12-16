@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e886da4ddc86df2",
+        "id": "fdf8faad758addd9",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb7494127350c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/Движение объекта в разные стороны.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37ce43a3fc14e006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/Физика/Rigidbody/Перемещение персонажа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19adb9d37efaae3",
+            "id": "0654b0e073521604",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b19adb9d37efaae3",
+  "active": "0654b0e073521604",
   "lastOpenFiles": [
+    "Unity/Физика/Rigidbody/Перемещение персонажа.md",
+    "Unity/Движение объекта в разные стороны.md",
     "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "Unity/Физика/Rigidbody/AddForce.md",
-    "Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "Unity/Физика/Гравитация.md",
     "Unity/Методы для отладки.md",
     "Unity/Поиск и слежение.md",
     "Unity/Свет.md",
     "Unity/Материалы.md",
-    "Unity/Линейная интерполяция.md",
-    "Unity/Движение объекта в разные стороны.md"
+    "Unity/Линейная интерполяция.md"
   ]
 }
