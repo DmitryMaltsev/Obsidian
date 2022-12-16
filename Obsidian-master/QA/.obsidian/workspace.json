@@ -122,15 +122,15 @@
   },
   "active": "b19adb9d37efaae3",
   "lastOpenFiles": [
-    "Unity/Методы для отладки.md",
+    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
+    "Unity/Физика/Rigidbody/AddForce.md",
     "Unity/Физика/Rigidbody/Перемещение персонажа.md",
+    "Unity/Физика/Гравитация.md",
+    "Unity/Методы для отладки.md",
     "Unity/Поиск и слежение.md",
     "Unity/Свет.md",
     "Unity/Материалы.md",
     "Unity/Линейная интерполяция.md",
-    "Unity/Движение объекта в разные стороны.md",
-    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-    "Unity/Физика/Rigidbody/AddTorque.md",
-    "Unity/Физика/Rigidbody/Velocity.md"
+    "Unity/Движение объекта в разные стороны.md"
   ]
 }

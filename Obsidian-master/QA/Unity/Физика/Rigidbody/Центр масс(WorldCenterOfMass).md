@@ -1,4 +1,4 @@
-Отслыживать физические тела на поле можно при помощи Window/Analizes/Physics Debug.
+GiОтслыживать физические тела на поле можно при помощи Window/Analizes/Physics Debug.
 1. Для отрисовки центра массы.
 void OnDrawGizmos()
 {
