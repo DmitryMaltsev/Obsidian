@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/Линейная интерполяция.md",
+                "file": "QA/Unity/MathF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10d876fc95da5090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Unity/MathF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/Линейная интерполяция.md",
+                "file": "QA/Unity/MathF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/Линейная интерполяция.md",
+                "file": "QA/Unity/MathF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/Линейная интерполяция.md"
+                "file": "QA/Unity/MathF.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c3cdb2f601e7f47",
+  "active": "a1fedc17d1853ba3",
   "lastOpenFiles": [
+    "QA/Unity/UI/Canvas.md",
     "QA/Unity/Движение объекта в разные стороны.md",
-    "QA/Unity/Линейная интерполяция.md",
+    "QA/Unity/MathF.md",
     "QA/Unity/Поиск и слежение.md",
     "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "QA/Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "QA/Unity/Методы для отладки.md",
     "QA/Unity/Физика/Гравитация.md",
     "QA/Unity/Физика/OnCollision, OnTrigger.md",
-    "QA/Unity/Материалы.md",
-    "QA/Unity/MathF/Линейная интерполяция.md"
+    "QA/Unity/Материалы.md"
   ]
 }

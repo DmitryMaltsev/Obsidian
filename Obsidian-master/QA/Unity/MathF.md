@@ -1,3 +1,4 @@
+Интерполяция
 1. ExecuteAlwayas-атрибут исполнения всегда.
 2. Аттрибут [Range(0,1)]-значение скролом 0-1.
 3. Mathf.Lerp(min,max,value)-value значение от 0 до1.
@@ -13,5 +14,9 @@ MoveTorwards(yangle, targetY, offset)-смещение на offset к цели
 MoveTorwards(Angle);
 Все аналогично Lerp
 
+ОКРГУЛЕНИЯ
+MathF.Round-Округление до ближайшего числа.
+Mathf.Floor-округление до меньшенго числа.
+Mathf.Ceil-округление до большего числа.
 
 Perlin noise-плавное распределение 0,1
