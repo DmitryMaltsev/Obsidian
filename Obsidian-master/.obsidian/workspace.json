@@ -136,17 +136,27 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "2c3cdb2f601e7f47",
   "lastOpenFiles": [
+    "QA/Unity/Physics.Raycast.md",
+    "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
+    "QA/Unity/Движение объекта в разные стороны.md",
+    "QA/Unity/Zenject DI Container.md",
+    "QA/Unity/Pro builder.md",
+    "QA/Unity/Поиск и слежение.md",
     "QA/Unity/MathF.md",
     "QA/Unity/UI/Canvas.md",
-    "QA/Unity/Движение объекта в разные стороны.md",
-    "QA/Unity/Поиск и слежение.md",
-    "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "QA/Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-    "QA/Unity/Методы для отладки.md",
-    "QA/Unity/Физика/Гравитация.md",
-    "QA/Unity/Физика/OnCollision, OnTrigger.md",
-    "QA/Unity/Материалы.md"
+    "QA/Unity/Методы для отладки.md"
   ]
 }
