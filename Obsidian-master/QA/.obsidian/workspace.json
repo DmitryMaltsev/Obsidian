@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Поиск и слежение.md",
+                "file": "Unity/Движение объекта в разные стороны.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Поиск и слежение.md",
+                "file": "Unity/Движение объекта в разные стороны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
   "lastOpenFiles": [
     "Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "Unity/Движение объекта в разные стороны.md",
+    "Unity/Поиск и слежение.md",
     "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "Unity/Физика/Rigidbody/AddForce.md",
     "Unity/Физика/Гравитация.md",
     "Unity/Методы для отладки.md",
-    "Unity/Поиск и слежение.md",
     "Unity/Свет.md",
     "Unity/Материалы.md",
     "Unity/Линейная интерполяция.md"
