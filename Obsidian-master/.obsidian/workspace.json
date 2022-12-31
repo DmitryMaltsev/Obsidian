@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/Поиск и слежение.md",
+                "file": "QA/Unity/MathF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/Поиск и слежение.md",
+                "file": "QA/Unity/MathF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/Поиск и слежение.md",
+                "file": "QA/Unity/MathF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/Поиск и слежение.md"
+                "file": "QA/Unity/MathF.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "2c3cdb2f601e7f47",
   "lastOpenFiles": [
+    "QA/Unity/Поиск и слежение.md",
     "QA/Unity/Physics.Raycast.md",
     "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "QA/Unity/Движение объекта в разные стороны.md",
     "QA/Unity/Zenject DI Container.md",
     "QA/Unity/Pro builder.md",
-    "QA/Unity/Поиск и слежение.md",
     "QA/Unity/MathF.md",
     "QA/Unity/UI/Canvas.md",
     "QA/Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
