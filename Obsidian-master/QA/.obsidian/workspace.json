@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Движение объекта в разные стороны.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61edbaebfa0f7e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unity/Math for games/Math.md",
+                "file": "Unity/Методы и аттрибуты для отладки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Math for games/Math.md",
+                "file": "Unity/Методы и аттрибуты для отладки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61edbaebfa0f7e6f",
+  "active": "0654b0e073521604",
   "lastOpenFiles": [
-    "Unity/Физика/Rigidbody/Перемещение персонажа.md",
-    "Unity/Движение объекта в разные стороны.md",
     "Unity/Поиск и слежение.md",
-    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-    "Unity/Физика/Rigidbody/AddForce.md",
-    "Unity/Физика/Гравитация.md",
-    "Unity/Методы для отладки.md",
-    "Unity/Свет.md",
     "Unity/Материалы.md",
-    "Unity/Линейная интерполяция.md"
+    "Unity/Zenject DI Container.md",
+    "Unity/Pro builder.md",
+    "Unity/Physics.Raycast.md",
+    "Unity/MathF.md",
+    "Unity/Свет.md",
+    "Unity/Методы и аттрибуты для отладки.md",
+    "Unity/Движение объекта в разные стороны.md",
+    "Unity/Math for games/Math.md"
   ]
 }
