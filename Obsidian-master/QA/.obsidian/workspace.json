@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/Методы и аттрибуты для отладки.md",
+                "file": "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/Методы и аттрибуты для отладки.md",
+                "file": "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,14 +107,14 @@
   "active": "0654b0e073521604",
   "lastOpenFiles": [
     "Unity/Поиск и слежение.md",
-    "Unity/Материалы.md",
-    "Unity/Zenject DI Container.md",
-    "Unity/Pro builder.md",
-    "Unity/Physics.Raycast.md",
-    "Unity/MathF.md",
     "Unity/Свет.md",
+    "Unity/Physics.Raycast.md",
+    "Unity/Pro builder.md",
+    "Unity/Zenject DI Container.md",
+    "Unity/Math for games/Math.md",
+    "Unity/Math for games/MathF.md",
     "Unity/Методы и аттрибуты для отладки.md",
-    "Unity/Движение объекта в разные стороны.md",
-    "Unity/Math for games/Math.md"
+    "Unity/Материалы.md",
+    "Unity/MathF.md"
   ]
 }

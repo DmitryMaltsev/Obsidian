@@ -15,7 +15,7 @@ Debug.DrawRay(transform.position, transform.forward*100f, Color.yellow);
 
 4. Ограничить Рейкаст Physics.Raycast(ray, Distance);
 
-5. Physics.RayCastAll(); чтобы пройти через все объекты на пути луча.
+5. Physics.RayCastAll(); чтобы пройти через все объекты на пути луча.FF
 
 6.  У компонента коллайдер тоже есть RayCast
  Ray ray=Camera.main.ScreenPointToRay(Input.mousePosition);

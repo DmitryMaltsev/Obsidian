@@ -2,8 +2,8 @@ GiОтслыживать физические тела на поле можно 
 1. Для отрисовки центра массы.
 void OnDrawGizmos()
 {
- Gizmos.Color=Color.Black;
- Gizmos.DrawSphere(GetComponent<RigidBody>.WorldCenterOfMass,01.f);
+   Gizmos.color = Color.black;
+   Gizmos.DrawSphere(_rigidBody.worldCenterOfMass, 0.1f);
 }
 
 2. Сменить центр масс
