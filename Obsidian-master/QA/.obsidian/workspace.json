@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6fd8fa59f89ed6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Команды new.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "Git/Команды new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +117,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0654b0e073521604",
+  "active": "d6fd8fa59f89ed6f",
   "lastOpenFiles": [
+    "Git/Команды.md",
     "Unity/Движение объекта в разные стороны.md",
     "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "Unity/Поиск и слежение.md",
@@ -114,7 +128,6 @@
     "Unity/Pro builder.md",
     "Unity/Zenject DI Container.md",
     "Unity/Math for games/Math.md",
-    "Unity/Math for games/MathF.md",
-    "Unity/Методы и аттрибуты для отладки.md"
+    "Unity/Math for games/MathF.md"
   ]
 }
