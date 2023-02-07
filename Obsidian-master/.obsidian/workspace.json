@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/ScriptableObject.md",
+                "file": "QA/Git/Команды new.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/ScriptableObject.md",
+                "file": "QA/Git/Команды new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/ScriptableObject.md",
+                "file": "QA/Git/Команды new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/ScriptableObject.md"
+                "file": "QA/Git/Команды new.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "820859ab3ef066bb",
   "lastOpenFiles": [
-    "QA/Unity/Zenject DI Container.md",
     "QA/Unity/ScriptableObject.md",
+    "QA/Unity/Zenject DI Container.md",
     "QA/Unity/Math for games/Math.md",
     "QA/Unity/Physics.Raycast.md",
     "QA/Unity/Движение объекта в разные стороны.md",

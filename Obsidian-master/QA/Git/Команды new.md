@@ -15,6 +15,12 @@ git commit -a -m"message" -сразу индексируем и сохраняе
 
 git rm --cached FileName - удалить файл только из гита
 
+git rm -r --cached foldername/ -удалить папку из гита
+
 git checkout -b "Имя ветви"  - создаение и переход на новую ветку
 
 git merge Test -m"Message" -сливаем ветки. Ветка в которую вливаем остается.
+
+git  branch -a -  узнать ветки
+
+\q выйти из лога
