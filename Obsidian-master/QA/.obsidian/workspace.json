@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды new.md",
+                "file": "Unity/Physics.Raycast.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды new.md",
+                "file": "Unity/Physics.Raycast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "d6fd8fa59f89ed6f",
   "lastOpenFiles": [
+    "Unity/Физика/OnCollision, OnTrigger.md",
+    "Unity/Math for games/LocalPosition to world.md",
+    "Unity/Math for games/Math.md",
+    "Unity/Math for games/MathF.md",
+    "Unity/Физика/Гравитация.md",
+    "Git/Команды new.md",
     "Git/Команды.md",
     "Unity/Движение объекта в разные стороны.md",
     "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
-    "Unity/Поиск и слежение.md",
-    "Unity/Свет.md",
-    "Unity/Physics.Raycast.md",
-    "Unity/Pro builder.md",
-    "Unity/Zenject DI Container.md",
-    "Unity/Math for games/Math.md",
-    "Unity/Math for games/MathF.md"
+    "Unity/Поиск и слежение.md"
   ]
 }

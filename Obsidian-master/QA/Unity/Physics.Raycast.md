@@ -9,8 +9,8 @@ Public Transform Pointer;
  float scale= Vector3.Distance(transform.position, CameraTransform.Position);
  transform.localScale=Vector3.one*scale*Size;
  
-3. Используя курсор мыши.
-Ray ray=Camera.main.ScreenPointToRay(Input.mousePosition);
+3. Используя курсор мыши.();
+Ray ray=Camera.main.ScreenPointTTayoRay(Input.mousePosition);
 Debug.DrawRay(transform.position, transform.forward*100f, Color.yellow);
 
 4. Ограничить Рейкаст Physics.Raycast(ray, Distance);
