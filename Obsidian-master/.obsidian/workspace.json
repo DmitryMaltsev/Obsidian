@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4956ca65152cd8dc",
+        "id": "4386ee3e057c1a43",
         "type": "tabs",
         "children": [
           {
-            "id": "820859ab3ef066bb",
+            "id": "c09f3b674e5c8807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Git/Команды new.md",
+                "file": "QA/Unity/Netcode for gameobjects/NetCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "944b1dc71a83613f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Git/Команды new.md",
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Git/Команды new.md",
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Git/Команды new.md"
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md"
               }
             }
           }
@@ -146,17 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "820859ab3ef066bb",
+  "active": "944b1dc71a83613f",
   "lastOpenFiles": [
+    "QA/Unity/Netcode for gameobjects/NetCode.md",
+    "QA/Unity/DarkRift/Чтение и отправка данных.md",
+    "QA/Unity/DarkRift",
+    "QA/Unity/Движение объекта в разные стороны.md",
+    "QA/Unity/Свет.md",
+    "QA/Unity/Physics.Raycast.md",
+    "QA/Unity/Pro builder.md",
     "QA/Unity/ScriptableObject.md",
+    "QA/Unity/Untitled.md",
+    "QA/Git/Команды new.md",
+    "QA/Unity/Math for games/LocalPosition to world.md",
     "QA/Unity/Zenject DI Container.md",
     "QA/Unity/Math for games/Math.md",
-    "QA/Unity/Physics.Raycast.md",
-    "QA/Unity/Движение объекта в разные стороны.md",
-    "QA/Unity/Материалы.md",
-    "QA/Unity/Свет.md",
-    "QA/Unity/Math for games/LocalPosition to world.md",
-    "QA/Unity/Math for games/MathF.md",
-    "QA/Unity/Поиск и слежение.md"
+    "QA/Unity/Материалы.md"
   ]
 }
