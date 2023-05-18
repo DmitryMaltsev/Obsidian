@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/Netcode for gameobjects/NetCode.md",
+                "file": "QA/Unity/Материал/Материалы.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "944b1dc71a83613f",
+            "id": "b0cc1e4b7b6a0486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Unity/Физика/Гравитация.md",
+                "file": "QA/Unity/Материал/Интенсивность emission.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/Физика/Гравитация.md",
+                "file": "QA/Unity/Материал/Интенсивность emission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/Физика/Гравитация.md",
+                "file": "QA/Unity/Материал/Интенсивность emission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/Физика/Гравитация.md"
+                "file": "QA/Unity/Материал/Интенсивность emission.md"
               }
             }
           }
@@ -159,28 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "944b1dc71a83613f",
+  "active": "b0cc1e4b7b6a0486",
   "lastOpenFiles": [
+    "QA/Unity/Материал/Материалы.md",
+    "QA/Unity/Материал/Интенсивность emission.md",
+    "QA/Unity/Материал",
+    "QA/Unity/Движение объекта в разные стороны.md",
+    "QA/Unity/Physics.Raycast.md",
+    "QA/Unity/Netcode for gameobjects/NetCode.md",
+    "QA/Unity/DarkRift/Чтение и отправка данных.md",
+    "QA/Unity/Math for games/MathF.md",
+    "QA/Unity/Math for games/Math.md",
+    "QA/Unity/Math for games/LocalPosition to world.md",
+    "QA/Unity/Физика/Гравитация.md",
     "QA/Unity/Физика/Rigidbody/Velocity.md",
     "QA/Unity/Физика/Rigidbody/AddTorque.md",
     "QA/Unity/Физика/Rigidbody/AddForce.md",
     "QA/Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
-    "QA/Unity/Math for games/LocalPosition to world.md",
-    "QA/Unity/Math for games/Math.md",
-    "QA/Unity/Math for games/MathF.md",
     "QA/Unity/UI/Canvas.md",
-    "QA/Unity/Движение объекта в разные стороны.md",
-    "QA/Unity/Материалы.md",
     "QA/Unity/Методы и аттрибуты для отладки.md",
     "QA/Unity/Поиск и слежение.md",
     "QA/Unity/Свет.md",
-    "QA/Unity/Physics.Raycast.md",
     "QA/Unity/Pro builder.md",
     "QA/Unity/ScriptableObject.md",
     "QA/Unity/Zenject DI Container.md",
-    "QA/Unity/DarkRift/Чтение и отправка данных.md",
-    "QA/Unity/Netcode for gameobjects/NetCode.md",
     "QA/Unity/DarkRift",
     "QA/Unity/Untitled.md",
     "QA/Git/Команды new.md"
