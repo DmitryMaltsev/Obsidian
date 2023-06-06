@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b727e123fc686828",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "83922747a9eb115c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,6 +99,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a92e0056224b14ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/Материал/Интенсивность emission.md",
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/Материал/Интенсивность emission.md",
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/Материал/Интенсивность emission.md"
+                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md"
               }
             }
           }
@@ -159,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0cc1e4b7b6a0486",
+  "active": "83922747a9eb115c",
   "lastOpenFiles": [
     "QA/Unity/Материал/Материалы.md",
     "QA/Unity/Материал/Интенсивность emission.md",
