@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Zentec/Контроль версий.md",
+                "file": "Контроллеры/Wientek/Основные  пункты..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Zentec/Контроль версий.md",
+                "file": "Контроллеры/Wientek/Основные  пункты..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,12 @@
   },
   "active": "29f72a505744f129",
   "lastOpenFiles": [
-    "Контроллеры/Zentec/Горячие клавиши..md",
+    "Контроллеры/Wientek/Типы адресов..md",
+    "Контроллеры/Wientek/Основные  пункты..md",
+    "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Zentec/Контроль версий.md",
+    "Контроллеры/Wientek",
+    "Контроллеры/Zentec/Горячие клавиши..md",
     "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
     "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
     "Контроллеры/Zentec/Блоки/Водяной нагрев..md",
@@ -139,9 +143,6 @@
     "Unity/Math for games/LocalPosition to world.md",
     "Git/Команды.md",
     "С#/Потокобезопасные коллекции.md",
-    "Git/Команды new.md",
-    "Unity/Физика/OnCollision, OnTrigger.md",
-    "Unity/Физика/Гравитация.md",
-    "Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md"
+    "Git/Команды new.md"
   ]
 }
