@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Wientek/Основные  пункты..md",
+                "file": "Контроллеры/Wientek/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Wientek/Основные  пункты..md",
+                "file": "Контроллеры/Wientek/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,12 @@
   },
   "active": "29f72a505744f129",
   "lastOpenFiles": [
+    "Veintek Commands.png",
+    "Контроллеры/Wientek/Объекты.md",
+    "Контроллеры/Wientek/Команды.md",
+    "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Wientek/Типы адресов..md",
     "Контроллеры/Wientek/Основные  пункты..md",
-    "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Zentec/Контроль версий.md",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Горячие клавиши..md",
@@ -140,9 +143,6 @@
     "Unity/Поиск и слежение.md",
     "Unity/Math for games/MathF.md",
     "Unity/Math for games/Math.md",
-    "Unity/Math for games/LocalPosition to world.md",
-    "Git/Команды.md",
-    "С#/Потокобезопасные коллекции.md",
-    "Git/Команды new.md"
+    "Unity/Math for games/LocalPosition to world.md"
   ]
 }
