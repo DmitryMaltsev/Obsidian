@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Zentec/Контроль версий.md",
+                "file": "Контроллеры/Zentec/Входы выходы Zentek.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Zentec/Контроль версий.md",
+                "file": "Контроллеры/Zentec/Входы выходы Zentek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "29f72a505744f129",
   "lastOpenFiles": [
+    "Контроллеры/Zentec/Контроль версий.md",
+    "Контроллеры/Zentec/Входы выходы Zentek.md",
     "Контроллеры/Wientek/Команды.md",
     "Контроллеры/Wientek/Основные  пункты..md",
     "Контроллеры/Wientek/Объекты.md",
@@ -122,7 +124,6 @@
     "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Wientek/Типы адресов..md",
     "Veintek Commands.png",
-    "Контроллеры/Zentec/Контроль версий.md",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Горячие клавиши..md",
     "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
@@ -143,7 +144,6 @@
     "Unity/Physics.Raycast.md",
     "Unity/Свет.md",
     "Unity/Поиск и слежение.md",
-    "Unity/Math for games/MathF.md",
-    "Unity/Math for games/Math.md"
+    "Unity/Math for games/MathF.md"
   ]
 }
