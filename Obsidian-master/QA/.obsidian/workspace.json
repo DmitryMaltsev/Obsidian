@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Wientek/Проблемы с Veintekом..md",
+                "file": "Контроллеры/Zentec/Контроль версий.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Wientek/Проблемы с Veintekом..md",
+                "file": "Контроллеры/Zentec/Контроль версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +114,11 @@
   },
   "active": "29f72a505744f129",
   "lastOpenFiles": [
-    "Контроллеры/Wientek/Макросы(602)..md",
-    "Контроллеры/Wientek/Проблемы с Veintekом..md",
-    "Контроллеры/Wientek/Объекты.md",
     "Контроллеры/Wientek/Команды.md",
     "Контроллеры/Wientek/Основные  пункты..md",
+    "Контроллеры/Wientek/Объекты.md",
+    "Контроллеры/Wientek/Проблемы с Veintekом..md",
+    "Контроллеры/Wientek/Макросы(602)..md",
     "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Wientek/Типы адресов..md",
     "Veintek Commands.png",
