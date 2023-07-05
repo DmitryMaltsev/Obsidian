@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e39bed2eef700ff9",
+        "id": "c48db498e9f5fabc",
         "type": "tabs",
         "children": [
           {
-            "id": "29f72a505744f129",
+            "id": "69e9ee990a28bb82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Zentec/Входы выходы Zentek.md",
+                "file": "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Zentec/Входы выходы Zentek.md",
+                "file": "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "29f72a505744f129",
+  "active": "89c99fa66e372e5b",
   "lastOpenFiles": [
-    "Контроллеры/Zentec/Контроль версий.md",
+    "Контроллеры/Zentec/Блоки/Вентилятор/Вентилятор..md",
+    "Контроллеры/Zentec/Блоки/Конечный автомат..md",
+    "Контроллеры/Zentec/Блоки/Жалюзи.md",
+    "Контроллеры/Zentec/Блоки/Вентилятор/Состояния вентилятора.md",
+    "С.md",
+    "Veintek Commands.png",
+    "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
+    "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
     "Контроллеры/Zentec/Входы выходы Zentek.md",
+    "Unity/Поиск и слежение.md",
+    "Контроллеры/Zentec/Блоки/Секвенсер.md",
+    "Контроллеры/Zentec/Блоки/Водяной нагрев..md",
+    "Контроллеры/Zentec/Блоки/Конечный автомат.md",
+    "Контроллеры/Zentec/Блоки/Вентилятор",
+    "Контроллеры/Zentec/Контроль версий.md",
     "Контроллеры/Wientek/Команды.md",
     "Контроллеры/Wientek/Основные  пункты..md",
     "Контроллеры/Wientek/Объекты.md",
@@ -123,27 +136,14 @@
     "Контроллеры/Wientek/Макросы(602)..md",
     "Контроллеры/Wientek/Cmt2078.md",
     "Контроллеры/Wientek/Типы адресов..md",
-    "Veintek Commands.png",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Горячие клавиши..md",
-    "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
-    "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
-    "Контроллеры/Zentec/Блоки/Водяной нагрев..md",
-    "Контроллеры/Zentec/Блоки/Конечный автомат..md",
-    "Контроллеры/Zentec/Блоки/Вентилятор..md",
-    "Контроллеры/Zentec/Блоки/Секвенсер.md",
     "Контроллеры/Zentec/Блоки",
     "Контроллеры/Zentec",
     "Идеи для игр/Девушка с кошамарами.md",
     "Контроллеры",
     "Unity/Движение объекта в разные стороны.md",
     "Unity/Методы и аттрибуты для отладки.md",
-    "Unity/ScriptableObject.md",
-    "Unity/Zenject DI Container.md",
-    "Unity/Pro builder.md",
-    "Unity/Physics.Raycast.md",
-    "Unity/Свет.md",
-    "Unity/Поиск и слежение.md",
-    "Unity/Math for games/MathF.md"
+    "Unity/ScriptableObject.md"
   ]
 }
