@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4386ee3e057c1a43",
+        "id": "e2b19c55a09de31b",
         "type": "tabs",
         "children": [
           {
-            "id": "c09f3b674e5c8807",
+            "id": "e8fdc532b461807e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "QA/Unity/Материал/Материалы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0cc1e4b7b6a0486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QA/Unity/Материал/Интенсивность emission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b727e123fc686828",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "83922747a9eb115c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
-                "mode": "source",
-                "source": false
+                "file": "QA/Veintek Commands.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
+                "file": "QA/Veintek Commands.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md",
+                "file": "QA/Veintek Commands.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Unity/DarkRift/Чтение и отправка данных.md"
+                "file": "QA/Veintek Commands.png"
               }
             }
           }
@@ -189,15 +152,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83922747a9eb115c",
+  "active": "e8fdc532b461807e",
   "lastOpenFiles": [
+    "QA/С.md",
+    "QA/Veintek Commands.png",
+    "QA/Unity/Zenject DI Container.md",
+    "QA/Unity/ScriptableObject.md",
+    "QA/Unity/Pro builder.md",
+    "QA/Unity/Physics.Raycast.md",
+    "QA/Unity/Свет.md",
+    "QA/Unity/Поиск и слежение.md",
+    "QA/Unity/Методы и аттрибуты для отладки.md",
+    "QA/Unity/Движение объекта в разные стороны.md",
     "QA/Unity/Материал/Материалы.md",
     "QA/Unity/Материал/Интенсивность emission.md",
-    "QA/Unity/Материал",
-    "QA/Unity/Движение объекта в разные стороны.md",
-    "QA/Unity/Physics.Raycast.md",
-    "QA/Unity/Netcode for gameobjects/NetCode.md",
     "QA/Unity/DarkRift/Чтение и отправка данных.md",
+    "QA/Unity/Материал",
+    "QA/Unity/Netcode for gameobjects/NetCode.md",
     "QA/Unity/Math for games/MathF.md",
     "QA/Unity/Math for games/Math.md",
     "QA/Unity/Math for games/LocalPosition to world.md",
@@ -208,12 +179,6 @@
     "QA/Unity/Физика/Rigidbody/Центр масс(WorldCenterOfMass).md",
     "QA/Unity/Физика/Rigidbody/Перемещение персонажа.md",
     "QA/Unity/UI/Canvas.md",
-    "QA/Unity/Методы и аттрибуты для отладки.md",
-    "QA/Unity/Поиск и слежение.md",
-    "QA/Unity/Свет.md",
-    "QA/Unity/Pro builder.md",
-    "QA/Unity/ScriptableObject.md",
-    "QA/Unity/Zenject DI Container.md",
     "QA/Unity/DarkRift",
     "QA/Unity/Untitled.md",
     "QA/Git/Команды new.md"
