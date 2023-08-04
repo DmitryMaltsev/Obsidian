@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
+                "file": "Контроллеры/Zentec/Блоки/Вентилятор/Состояния вентилятора.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
+                "file": "Контроллеры/Zentec/Блоки/Вентилятор/Состояния вентилятора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89c99fa66e372e5b",
+  "active": "69e9ee990a28bb82",
   "lastOpenFiles": [
+    "Контроллеры/Zentec/Блоки/Жалюзи.md",
+    "Контроллеры/Rasberry pie/Для изучения.md",
+    "Контроллеры/Rasberry pie",
+    "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
     "Контроллеры/Zentec/Блоки/Вентилятор/Вентилятор..md",
     "Контроллеры/Zentec/Блоки/Конечный автомат..md",
-    "Контроллеры/Zentec/Блоки/Жалюзи.md",
     "Контроллеры/Zentec/Блоки/Вентилятор/Состояния вентилятора.md",
     "С.md",
     "Veintek Commands.png",
-    "Контроллеры/Zentec/Блоки/Электрический нагреватель..md",
     "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
     "Контроллеры/Zentec/Входы выходы Zentek.md",
     "Unity/Поиск и слежение.md",
@@ -143,7 +145,6 @@
     "Идеи для игр/Девушка с кошамарами.md",
     "Контроллеры",
     "Unity/Движение объекта в разные стороны.md",
-    "Unity/Методы и аттрибуты для отладки.md",
-    "Unity/ScriptableObject.md"
+    "Unity/Методы и аттрибуты для отладки.md"
   ]
 }
