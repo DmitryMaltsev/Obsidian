@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec9072f4b2221ad6",
+        "id": "e6b9969d013a5395",
         "type": "tabs",
         "children": [
           {
-            "id": "f08aa1ffa859f5ab",
+            "id": "50160203ffd56f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "STM32/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды.md",
+                "file": "STM32/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,14 +122,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89c99fa66e372e5b",
+  "active": "50160203ffd56f89",
   "lastOpenFiles": [
+    "Veintek Commands.png",
+    "STM32/Команды.md",
+    "STM32/Частота ШИМ.jpg",
+    "STM32/Входы выходы.md",
+    "Unity/Команды.md",
+    "Git/Команды.md",
+    "STM32",
     "Unity/Recursively add Layer.md",
     "С#/WPF/BindingCodeBehind.md",
     "С#/Prism/Добавление ВьюМодели в Регион.md",
-    "Veintek Commands.png",
     "Git/Команды new.md",
-    "Git/Команды.md",
     "С#/Потокобезопасные коллекции.md",
     "С#/WPF/DependencyProperty.md",
     "С#/WPF/AttachedProperty.md",
@@ -149,11 +154,7 @@
     "Unity/Поиск и слежение.md",
     "Контроллеры/Zentec/Блоки/Секвенсер.md",
     "Контроллеры/Zentec/Блоки/Водяной нагрев..md",
-    "Контроллеры/Zentec/Блоки/Конечный автомат.md",
     "Контроллеры/Zentec/Блоки/Вентилятор",
-    "Контроллеры/Zentec/Контроль версий.md",
-    "Контроллеры/Wientek/Команды.md",
-    "Контроллеры/Wientek/Основные  пункты..md",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Блоки",
     "Контроллеры/Zentec",
