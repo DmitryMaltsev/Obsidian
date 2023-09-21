@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c48db498e9f5fabc",
+        "id": "ec9072f4b2221ad6",
         "type": "tabs",
         "children": [
           {
-            "id": "69e9ee990a28bb82",
+            "id": "f08aa1ffa859f5ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интернет/Статический IP.md",
+                "file": "Git/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интернет/Статический IP.md",
+                "file": "Git/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26cad87e19c0596b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -112,9 +122,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69e9ee990a28bb82",
+  "active": "89c99fa66e372e5b",
   "lastOpenFiles": [
+    "Unity/Recursively add Layer.md",
+    "С#/WPF/BindingCodeBehind.md",
+    "С#/Prism/Добавление ВьюМодели в Регион.md",
     "Veintek Commands.png",
+    "Git/Команды new.md",
+    "Git/Команды.md",
+    "С#/Потокобезопасные коллекции.md",
+    "С#/WPF/DependencyProperty.md",
+    "С#/WPF/AttachedProperty.md",
+    "С#/WPF/Перетаскивание элемента по полю.md",
     "Интернет/Статический IP.md",
     "Интернет",
     "Контроллеры/Zentec/Блоки/Вентилятор/Состояния вентилятора.md",
@@ -135,17 +154,9 @@
     "Контроллеры/Zentec/Контроль версий.md",
     "Контроллеры/Wientek/Команды.md",
     "Контроллеры/Wientek/Основные  пункты..md",
-    "Контроллеры/Wientek/Объекты.md",
-    "Контроллеры/Wientek/Проблемы с Veintekом..md",
-    "Контроллеры/Wientek/Макросы(602)..md",
-    "Контроллеры/Wientek/Cmt2078.md",
-    "Контроллеры/Wientek/Типы адресов..md",
     "Контроллеры/Wientek",
-    "Контроллеры/Zentec/Горячие клавиши..md",
     "Контроллеры/Zentec/Блоки",
     "Контроллеры/Zentec",
-    "Идеи для игр/Девушка с кошамарами.md",
-    "Контроллеры",
-    "Unity/Движение объекта в разные стороны.md"
+    "Контроллеры"
   ]
 }
