@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b9969d013a5395",
+        "id": "a92aa75d73bb9d14",
         "type": "tabs",
         "children": [
           {
-            "id": "50160203ffd56f89",
+            "id": "ea0c6c0b1dc67aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,19 +122,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50160203ffd56f89",
+  "active": "ea0c6c0b1dc67aba",
   "lastOpenFiles": [
     "STM32/Входы выходы.md",
+    "STM32/Аббревеатуры.md",
     "STM32/Команды.md",
+    "STM32/Работа с типами данных.md",
+    "Git/Команды new.md",
+    "Git/Команды.md",
     "Veintek Commands.png",
     "STM32/Частота ШИМ.jpg",
     "Unity/Команды.md",
-    "Git/Команды.md",
     "STM32",
     "Unity/Recursively add Layer.md",
     "С#/WPF/BindingCodeBehind.md",
     "С#/Prism/Добавление ВьюМодели в Регион.md",
-    "Git/Команды new.md",
     "С#/Потокобезопасные коллекции.md",
     "С#/WPF/DependencyProperty.md",
     "С#/WPF/AttachedProperty.md",
@@ -152,8 +154,6 @@
     "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
     "Контроллеры/Zentec/Входы выходы Zentek.md",
     "Unity/Поиск и слежение.md",
-    "Контроллеры/Zentec/Блоки/Секвенсер.md",
-    "Контроллеры/Zentec/Блоки/Водяной нагрев..md",
     "Контроллеры/Zentec/Блоки/Вентилятор",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Блоки",
