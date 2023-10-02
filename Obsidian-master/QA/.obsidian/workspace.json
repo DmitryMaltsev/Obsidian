@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/Команды.md",
+                "file": "Shackle of souls/Подключение, отключение от сервера.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/Команды.md",
+                "file": "Shackle of souls/Подключение, отключение от сервера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,16 @@
   },
   "active": "ea0c6c0b1dc67aba",
   "lastOpenFiles": [
+    "Диаграмма подключения к серверу 1.png",
+    "Shackle of souls/Подключение, отключение от сервера.md",
+    "Диаграмма подключения к серверу.png",
+    "Git/Команды.md",
+    "Shackle of souls",
+    "STM32/Команды.md",
     "STM32/Входы выходы.md",
     "STM32/Аббревеатуры.md",
-    "STM32/Команды.md",
     "STM32/Работа с типами данных.md",
     "Git/Команды new.md",
-    "Git/Команды.md",
     "Veintek Commands.png",
     "STM32/Частота ШИМ.jpg",
     "Unity/Команды.md",
@@ -153,7 +157,6 @@
     "С.md",
     "Контроллеры/Zentec/Блоки/Фреоновый охладитель..md",
     "Контроллеры/Zentec/Входы выходы Zentek.md",
-    "Unity/Поиск и слежение.md",
     "Контроллеры/Zentec/Блоки/Вентилятор",
     "Контроллеры/Wientek",
     "Контроллеры/Zentec/Блоки",
